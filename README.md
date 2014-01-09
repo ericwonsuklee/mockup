@@ -1,4 +1,6 @@
-mockup
-======
+# user stories for my idea
 
-User Stories and HTML Mockup Pages
+1. As a user, I want to 
+2. As a user, I want to...
+3. As a visitor, I want to 
+4. As an adminstrator, I want to ...
