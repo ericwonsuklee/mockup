@@ -5,3 +5,8 @@
 3. As a user, I want to view my history of searches
 4. As a user, I want to select streaming services you have access to
 5. As an adminstrator, I want to add other video streaming websites
+
+#Domain Model
+
+|1|1|1|1|
+|1|1|1|1|
