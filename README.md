@@ -9,4 +9,4 @@
 #Domain Model
 
 | Test | Test | Test |
-| 1 | 1 | 1 |
+| 1    | 1    | 1    |
