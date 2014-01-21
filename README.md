@@ -21,5 +21,13 @@ Users
 | ------------ | -------------- | ------------- | 
 | 1            | Eric           | Lee           |
 | 2            | Wonjun         | Lee           |      
+| 3            | Jon            | Finch         | 
 
+Expenses
+
+| Id (integer) | Description (text) | Cost (integer) | Covered by (integer) |
+| ------------ | ------------------ | -------------- | -------------------- |
+| 1            | Airbnb             | 450            | 1                    |
+| 2            | Rental car         | 200            | 2                    |  
+| 3            | Groceries          | 120            | 2                    |
 
