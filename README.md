@@ -1,4 +1,4 @@
-# user stories for my idea
+# User stories for my idea
 
 1. As a user, I want to insert my flight information
 2. As a user, I want to see my friends' flight information
