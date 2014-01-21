@@ -15,10 +15,10 @@
 13. As a admin, I want to be able to control read/write permission
 
 # Domain Model
-
-| Test|Test | Test | Test |
-| ---- |---- | ---- | ---- |
-| 1    |1    | 1    |   1  |
-| 1    |1    | 1    |      |
+Users
+| Id (integer) |First (string) | Last (string) |
+| ------------ |-------------- | ------------- | 
+| 1            |Eric           | Lee           |
+| 2            |Wonjun         | Lee           |      
 
 
