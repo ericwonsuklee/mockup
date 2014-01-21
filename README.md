@@ -16,9 +16,9 @@
 
 # Domain Model
 Users
-| Id (integer) |First (string) | Last (string) |
-| ------------ |-------------- | ------------- | 
-| 1            |Eric           | Lee           |
-| 2            |Wonjun         | Lee           |      
+| Id (integer) | First (string) | Last (string) |
+| ------------ | -------------- | ------------- | 
+| 1            | Eric           | Lee           |
+| 2            | Wonjun         | Lee           |      
 
 
