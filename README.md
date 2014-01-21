@@ -12,10 +12,11 @@
 10. As a user, I want to be able to invite my friends to the website
 11. As a user, I want to organize a video chat (Google Hangout, Skype etc.)
 12. As a user, I want to be update on travel restrictions, visas etc
-13. As a admin, I want to be able to control read/write permission
+13. As an admin, I want to be able to control read/write permission
 
 # Domain Model
 Users
+
 | Id (integer) | First (string) | Last (string) |
 | ------------ | -------------- | ------------- | 
 | 1            | Eric           | Lee           |
